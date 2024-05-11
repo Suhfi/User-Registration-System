@@ -1,0 +1,2 @@
+# A fullstack application
+In this project, I have build both frontend and backend of this application and also established connection between frontend and backend. In this project for backend I have build Rest APIs using springboot and performed crud operations. For frontend I have used React.js and created a user interface where we can view , add , update and delete the user from the registry. For database I have used MySql database to store the data.
